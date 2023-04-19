@@ -13,7 +13,7 @@ For now, I know:
 1. GitHub
 1. Chalk
 
-<font color ="blue"> This is blue.</font>
+<!-- <font color ="blue"> This is blue.</font> -->
 
 
 
